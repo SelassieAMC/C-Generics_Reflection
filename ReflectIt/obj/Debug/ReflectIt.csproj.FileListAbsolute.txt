@@ -1,0 +1,6 @@
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\bin\Debug\ReflectIt.exe.config
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\bin\Debug\ReflectIt.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\bin\Debug\ReflectIt.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\obj\Debug\ReflectIt.csprojAssemblyReference.cache
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\obj\Debug\ReflectIt.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflectIt\obj\Debug\ReflectIt.pdb

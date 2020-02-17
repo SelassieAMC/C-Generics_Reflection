@@ -1,0 +1,6 @@
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\bin\Debug\Tips.exe.config
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\bin\Debug\Tips.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\bin\Debug\Tips.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\obj\Debug\Tips.csprojAssemblyReference.cache
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\obj\Debug\Tips.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\Tips\obj\Debug\Tips.pdb

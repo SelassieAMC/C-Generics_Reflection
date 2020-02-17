@@ -1,0 +1,16 @@
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\ReflextIt.Test.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\ReflextIt.Test.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\ReflectIt.exe
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\ReflectIt.pdb
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\ReflectIt.exe.config
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\obj\Debug\ReflextIt.Test.csprojAssemblyReference.cache
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\obj\Debug\ReflextIt.Test.csproj.CopyComplete
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\obj\Debug\ReflextIt.Test.dll
+C:\Users\aclavijo\Documents\Privado\Courses\Generics\ReflextIt.Test\obj\Debug\ReflextIt.Test.pdb
